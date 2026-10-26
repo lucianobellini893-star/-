@@ -1,0 +1,1 @@
+Estratto Studio v7 — expanded tree sidebar inspired by provided reference. PDF rendering functions and original editor markup unchanged from v6. Expand/collapse Documents, navigate Dashboard, Overview and Trade Statements. Future modules marked Soon. Deploy root directory containing index.html and vercel.json.
